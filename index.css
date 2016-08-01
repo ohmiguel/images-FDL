@@ -665,6 +665,11 @@ background-size: cover;
   height: 560px;
 }
 
+#cont{text-align: left;
+
+  margin-top: 20px;
+
+}
 
 .modif {
   width: 100%;
@@ -681,9 +686,9 @@ background-size: cover;
 /*footer*/
 
 footer{
-    
+    margin-top: -30px;
+    font-size:smaller;
     height: 50px;
-    
     padding-left: 30px;
     padding-top: 10px;
     }
